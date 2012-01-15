@@ -2,6 +2,8 @@ import sys
 import xbmc, xbmcgui, xbmcplugin
 import urllib,urllib2,re
 
+#hello world
+
 #The Amazing Race 2 plugin by Shai Ungar
 
 def CATEGORIES():
